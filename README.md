@@ -45,5 +45,10 @@ Let's first explore the Fandango ratings to see if our analysis agrees with the 
 Let's now compare the scores from Fandango to other movies sites and see how they compare.
 
 **TASK: Read in the "all_sites_scores.csv" file by running the cell below**
-Final thoughts: Wow! Fandango is showing around 3-4 star ratings for films that are clearly bad! Notice the biggest offender, Taken 3!. Fandango is 
-displaying 4.5 stars on their site for a film with an average rating of 1.86 across the other platforms!
+
+---
+----
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6f/Taken_3_poster.jpg">
+
+**Final thoughts: Wow! Fandango is showing around 3-4 star ratings for films that are clearly bad! Notice the biggest offender, [Taken 3!](https://www.youtube.com/watch?v=tJrfImRCHJ0). Fandango is displaying 4.5 stars on their site for a film with an [average rating of 1.86](https://en.wikipedia.org/wiki/Taken_3#Critical_response) across the other platforms!**
